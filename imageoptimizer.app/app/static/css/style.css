@@ -1,0 +1,10 @@
+body {
+    font-family: sans-serif;
+    margin: 2rem;
+    line-height: 1.6;
+}
+
+header {
+    border-bottom: 2px solid #ccc;
+    margin-bottom: 2rem;
+}
